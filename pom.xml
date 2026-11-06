@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>student-management</artifactId>
+    <artifactId>student-management_TP6</artifactId>
     <version>1.0.0</version>
     <name>student-management</name>
     <description>Student management REST API with Spring Boot, JPA, unit tests and Swagger documentation</description>
